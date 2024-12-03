@@ -1,3 +1,6 @@
 we have to study hard to get  a job in the devops
 we should do work hard.
 
+vm_memory_total_used
+(vm_memory_total_max - vm_memory_total_used) / vm_memory_total_max * 100.0
+vm_cpu_load
